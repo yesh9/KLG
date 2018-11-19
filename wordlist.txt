@@ -1,0 +1,10 @@
+apple
+car
+cat
+pencil
+scooter
+eraser
+pen
+sharpener
+telephone
+computer
